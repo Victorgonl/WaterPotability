@@ -1,6 +1,4 @@
-# ANN-WaterPotability
-
-## Problema:
+# Problema:
 
 Elaborar uma rede neural artifical (ANN) para predizer se uma amostra de água é considerada potável, com base em medidas contidas no dataset disponível em https://www.kaggle.com/datasets/adityakadiwal/water-potability
 
