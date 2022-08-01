@@ -6,7 +6,7 @@ Os parâmetros de entrada para o problema são:
 - valor do PH
 - dureza, causada por cálcio e sais de magnésio
 - total de sólidos dissolvidos
-- concentração decloraminas
+- concentração de cloraminas
 - concentração de sulfato
 - condutividade
 - concentração de carbono orgânico
