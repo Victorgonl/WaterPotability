@@ -1,0 +1,15 @@
+# Micromamba environment file
+# https://marketplace.visualstudio.com/items?itemName=corker.vscode-micromamba
+
+name: default
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - jupyterlab=3.5
+  - tensorflow=2.10
+  - keras=2.10
+  - pandas=1.5
+  - scikit-learn=1.2
